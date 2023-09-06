@@ -2,7 +2,7 @@
   
 ### 👋 Back-end web developer
 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="" target="_blank"><img src=""/></a>
   <a href="" target="_blank"><img src=""/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawning5&show_icons=true&theme=radical)
