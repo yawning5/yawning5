@@ -6,7 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawning5&show_icons=true&theme=radical)
 
-### :book:Studying
+<details>
+<summary><h2>### :book:Studying</h2></summary>
 
 #### 🛠️Stack
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -18,6 +19,7 @@
 #### ✏️Language
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 
+</details>
   
   <div/>
 <!--
