@@ -1,6 +1,6 @@
 <div align=center>
   
-### 👋 Back-end web developer
+### 👋 Back-end Developer
 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
