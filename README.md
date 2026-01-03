@@ -27,9 +27,6 @@
 ![OpenFeign](https://img.shields.io/badge/OpenFeign-2C3E50?style=for-the-badge)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
 
-### API Documentation
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
 ### Data Source
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
