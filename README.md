@@ -6,7 +6,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 -->
 
-![yawn GitHub Stats](https://github-readme-stats.vercel.app/api?username=yawning5&show_icons=true&theme=radical)
+![yawn GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yawning5&show_icons=true&theme=radical)
 
 
 
