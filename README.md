@@ -28,6 +28,7 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
 
 ### Data Source
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -57,4 +58,5 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge)
+
 
