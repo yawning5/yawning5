@@ -6,7 +6,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 -->
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yawning5&layout=compact)
+![yawn GitHub Stats](https://github-readme-stat-ten.vercel.app/api?username=yawning5&show_icons=true&theme=radical)
 
 <!-- <summary><h2>:book:Studying</h2></summary> -->
 
