@@ -1,62 +1,27 @@
-<div align=center>
+<div align="center">
   
 ### 👋 Backend Developer
 
-<!--
-<a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
--->
-
 ![yawn GitHub Stats](https://github-readme-stat-ten.vercel.app/api?username=yawning5&show_icons=true&theme=radical)
 
-<!-- <summary><h2>:book:Studying</h2></summary> -->
+</div>
+
+---
 
 ## 🛠 Tech Stack
 
-### Language
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+**Core**  
+Java · Spring Boot · Spring Security · Spring Cloud
 
-### Framework & Library
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-0288D1?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+**Data & Messaging**  
+MySQL · PostgreSQL · Redis · Kafka · MongoDB
 
-### Service Discovery & Communication
-![Eureka](https://img.shields.io/badge/Eureka-Netflix-E50914?style=for-the-badge)
-![OpenFeign](https://img.shields.io/badge/OpenFeign-2C3E50?style=for-the-badge)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
+**Infrastructure & Operations**  
+Docker · AWS (EC2, ECS, ECR, Fargate)  
+Prometheus · Grafana · Zipkin
 
-### Data Source
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Messaging / Event Streaming
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Artemis](https://img.shields.io/badge/Artemis-2F7DE1?style=for-the-badge)
-
-### Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### AWS
-![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
-![ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Fargate](https://img.shields.io/badge/AWS%20Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Zipkin](https://img.shields.io/badge/Zipkin-000000?style=for-the-badge)
-
-### Collaboration
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge)
-
-
+**Others**  
+Eureka, OpenFeign, WebSocket  
+Docker Compose, GitHub Actions  
+JUnit5, k6  
+GitHub, Notion, Slack, Excalidraw
