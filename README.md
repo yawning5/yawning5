@@ -14,7 +14,7 @@
 ## 🛠 Tech Stack
 
 ### Language
-![Java](https://img.shields.io/badge/Java%20(JDK%2021)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java%20-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Framework & Library
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203.5.8-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
